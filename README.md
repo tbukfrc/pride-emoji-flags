@@ -22,6 +22,7 @@ Added flags are:
 - Genderflux
 - Gay Men
 - Progress
+- Omnisexual
 
 If anyone has any requests, I will create them add them to the repo.
 
