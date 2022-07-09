@@ -21,6 +21,7 @@ Added flags are:
 - Pangender
 - Genderflux
 - Gay Men
+- Progress
 
 If anyone has any requests, I will create them add them to the repo.
 
