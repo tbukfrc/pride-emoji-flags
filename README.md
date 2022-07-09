@@ -3,8 +3,26 @@
 A simple repository by [JoyPixels](https://www.joypixels.com) to provide a fully-inclusive set of pride emoji flags.
 
 ## what's included?
-All 16 flags in SVG and PNG (512px) format within the repository, as well as attached to [each release](https://github.com/joypixels/pride-emoji-flags/releases) 
-in zip format for easy download.
+All the original JoyPixels flags, and the new ones added by me, in PNG format only (sorry). The PSD file with all the flags contianed is also in the repo.
+
+## what are the added flags?
+Added flags are:
+- Toric
+- Trixic
+- Demiromantic
+- Demiboy
+- Demigirl
+- Demigender
+- Aroflux
+- Aceflux
+- Aroace
+- Abrosexual
+- Bigender
+- Pangender
+- Genderflux
+- Gay Men
+
+If anyone has any requests, I will create them add them to the repo.
 
 ## how can I use them?
 These flags have not been recommended for general use (RGI) by Unicode, meaning there is
@@ -16,10 +34,5 @@ license so that there are few limits
 on the ways they can be used. Websites, apps, sticker packs, and physical goods (stickers, posters, etc) 
 are all permitted within the CC-BY-4.0 license. Please see this guide on [best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution).
 
-## can I contribute?
-We gladly accept design suggestions and bug fixes! If you see an issue with any of the artwork please [submit an issue](https://github.com/joypixels/pride-emoji-flags/issues) 
-and let us know what needs fixed up. You may also submit a pull request that includes the fixes. Keep in mind that
- to maintain the image quality it is best to modify the SVG file and submit updates that way.
-
 ## thank you!
-And thanks to [Fullscreen Inc](https://fullscreen.com/) for the inspiration and guidance.
+And thanks to [Fullscreen Inc](https://fullscreen.com/) for the inspiration and guidance. Also, thanks to JoyPixels for creating the original emoji set.
