@@ -3,7 +3,7 @@
 A simple repository by [JoyPixels](https://www.joypixels.com) to provide a fully-inclusive set of pride emoji flags.
 
 ## what's included?
-All the original JoyPixels flags, and the new ones added by me, in PNG format only (sorry). The PSD file with all the flags contianed is also in the repo.
+All the original JoyPixels flags, and the new ones added by me, in PNG format only (sorry). The PSD file with all the flags contianed is also in the repo. The new flags were created using the original emojis as a template.
 
 ## what are the added flags?
 Added flags are:
